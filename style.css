@@ -1,0 +1,27 @@
+
+body {
+    background-color: #f8f8f8;
+}
+
+.nav {
+    background-color: #343a40;
+    text-align: right;
+}
+
+.nav-brand {
+    color: #ffffff !important;
+}
+.header{
+    text-align: right;
+}
+  
+  h1 {
+    color: rgb(11, 11, 11); 
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+    text-align: center;
+  }
